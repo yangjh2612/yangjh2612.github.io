@@ -10,7 +10,7 @@ redirect_from:
 
 CV
 ======
-**[Full CV]**(http://yangjh2612.github.io/files/cv.pdf)
+**[Full CV](http://yangjh2612.github.io/files/cv.pdf)**
 
 
 Current Position
