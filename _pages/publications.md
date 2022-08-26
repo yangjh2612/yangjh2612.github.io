@@ -19,7 +19,7 @@ Journal Articles
 
 3. Strauss, I., & **Yang, J.**, [Slowing Investment Rates in Developing Economies: Evidence from a Bayesian hierarchical model,](https://www.sciencedirect.com/science/article/pii/S1057521921001769), International Review of Financial Analysis, 2021.
 
-4. **Yang, J.** and Carro, A., [Two Tales of Complex System Analysis: ABM and MaxEnt,(https://link.springer.com/epdf/10.1140/epjst/e2020-900137-x?sharing_token=WOMdo4CCnImoKYxpuoubK4sPkCdkOxEKPl2JoxdvwqE4ID46tUWSqkTJVr4S7Oe7avzdTba-uFBFdzeNb508HTMq19BBmYbFSLrWDRBR1OTRvo60R34t2LeG5isGtzx0eubHRnKFGNgsy6QyUs6jfx2aziJPogC5vJzjxaiLIbA%3D),  European Physical Journal: Special Topics, 2020.
+4. **Yang, J.** and Carro, A., [Two Tales of Complex System Analysis: ABM and MaxEnt,(https://link.springer.com/article/10.1140/epjst/e2020-900137-x),  European Physical Journal: Special Topics, 2020.
 
 5. Scharfenaker, E and **Yang, J.**, [Maximum Entropy Economics,(https://link.springer.com/article/10.1140/epjst/e2020-000029-4), European Physical Journal: Special Topics, 2020.
 
