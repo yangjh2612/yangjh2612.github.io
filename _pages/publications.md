@@ -35,7 +35,7 @@ Journal Articles
 Working papers
 ------
 
-1. Yang, J., Torsten Heinrich, and Julian Winkler, François Lafond, Pantelis Koutroumpis, and Doyne Farmer, [Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution,](),  resubmitted.
+1. Yang, J., Torsten Heinrich, and Julian Winkler, François Lafond, Pantelis Koutroumpis, and Doyne Farmer, [Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution,](http://yangjh2612.github.io/files/productivity_dispersion.pdf),  resubmitted.
 
 2.Bonwoo Koo, Yang, J., and Brian D. Wright, “On optimality of secrecy and scarcity of idea.” R&R.
 
