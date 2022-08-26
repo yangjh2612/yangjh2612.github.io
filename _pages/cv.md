@@ -8,51 +8,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education ??
-======
-* B.S. in GitHub, GitHub University, 2012 Check
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[Full CV](http://yangjh2612.github.io/files/cv.pdf)
 
-Work experience
+Current Position
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor,  Department of Management Sciences, Faculty of Engineering, University of Waterloo, 2020 - Present
+* Research Associate, Institute for New Economic Thinking at the Oxford Martin School, University of Oxford,  2020 - Present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Previous Academic Position
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Postdoctoral Research Fellow, Institute for New Economic Thinking at the Oxford Martin School, University of Oxford,  2018 - 2020
 
-Publications
+Education
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Ph.D. in Economics, New School for Social Research, New York, USA, 2018
+* MA in Economics, New School for Social Research, New York, USA, 2015
+* BA in Western History,  Seoul National University, Seoul, Korea, 2010
+
+Research Interests
+======
+Statistical Methods and Methodology; Firm-level Data Analysis; Information-Theoretic Economics; Technical Change and Economic Growth;  Input-Output Network
   
-Talks
+Teaching Experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Department of Management Sciences, University of Waterloo
+  * Quantitative Data Anaylsis (Spring 2021,2022)
+  * Statistical Methods for Data Analytics (Fall 2022)
+  * Engineering Economics: Financial Management for Engineers (Spring 2021,2022)
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Department of Economics, New School for Social Research
+  * Advanced Econometrics (TA and lab consultant , Fall 2017, Spring 2017, Spring 2016)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
