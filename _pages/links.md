@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Links"
 permalink: /links/
 author_profile: true
 redirect_from:
@@ -8,7 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
+University of Waterloo: https://uwaterloo.ca/management-sciences/
 
-**[Full CV download here](http://yangjh2612.github.io/files/cv.pdf)**
+INET at Oxford University: https://www.inet.ox.ac.uk
 
-check
+New School for Social Research: https://www.newschool.edu/nssr/
+
+Seoul National University: http://www.useoul.edu
+
+
+
