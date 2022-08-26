@@ -6,17 +6,46 @@ author_profile: true
 ---
 
 
-
-Check
-
-I am an applied economist with strong interests in interdisciplinary work. My research has focused on information-theoretic approaches in economics, power-law behaviour in economic data, and Bayesian multilevel modelling. I have published in economics and multidisciplinary science journals such as [Journal of Evolutionary Economics](https://www.springer.com/journal/191), [International Review of Financial Analysis](https://www.sciencedirect.com/journal/international-review-of-financial-analysis), [Metroeconomica](https://onlinelibrary.wiley.com/journal/1467999x), [Journal of Economic Surveys](https://onlinelibrary.wiley.com/journal/14676419), [Economics Systems Research](https://www.tandfonline.com/toc/cesr20/current), [Entropy](https://www.mdpi.com/journal/entropy), [European Physical Journals Special Topics](https://www.springer.com/journal/11734), and [Advances in Complex Systems](https://www.worldscientific.com/worldscinet/acs).
+My main research fields are the Economics of Technical Change and Economic Growth; Firm-Level Data Analysis; Bayesian Econometrics; and Information Theory. The following is the list of published journal articles, book chapters, and working papers.
 
 
-Contact
+Journal Articles
 ------
-Mailing address: University of Waterloo, Department of Management Sciences, 200 University Avenue West, Waterloo, ON   N2L 3G1, CANADA
 
-E-mail: j634yang[at]uwaterloo.ca
+
+1. **Yang, J.**, [Information-Theoretic Model of Induced Technological Change: Theory and Empirics],(https://onlinelibrary.wiley.com/doi/full/10.1111/meca.12399), Metroeconomica, 2022. 
+
+2. Heinrich, T., **Yang, J.**, Dai, S., [Levels of structural change: An analysis of China’s development push 1998-2014,](https://link.springer.com/article/10.1007%2Fs00191-021-00740-9), Journal of Evolutionary Economics, 2021.
+
+3. Strauss, I., & **Yang, J.**, “Slowing Investment Rates in Developing Economies: Evidence from a Bayesian hierarchical model,” International Review of Financial Analysis, 2021.
+
+4. Yang, J. and Carro, A., “Two Tales of Complex System Analysis: ABM and MaxEnt,”  European Physical Journal: Special Topics, 2020.
+
+5. Scharfenaker, E and Yang, J., “Maximum Entropy Economics,” European Physical Journal: Special Topics, 2020.
+
+6. dos Santos, P. and Yang, J., “Capital Mobility, Quasi-rents, and the Competitive Self-organization of Distributions of Profitability,” Advances in Complex Systems,  2020.
+
+7. Yang, J. and Torres, D., “The Persistent Statistical Structure of the US Input-Output Coefficient Matrices: 1963-2007,”  Economic Systems Research, 2019
+
+8. Yang, J., “A Quantal Response Statistical Equilibrium Model of Induced Technical Change in an Interactive Factor Market: Firm-Level Evidence in the EU Economies,” Entropy, 2018
+
+9. Yang, J., “Information-Theoretic Approaches in Economics,”  Journal of Economic Surveys, 2018
+
+
+Working papers
+------
+
+1. Yang, J., Torsten Heinrich, and Julian Winkler, François Lafond, Pantelis Koutroumpis, and Doyne Farmer, “Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution,“  resubmitted.
+
+2.Bonwoo Koo, Yang, J., and Brian D. Wright, “On optimality of secrecy and scarcity of idea.” R&R.
+
+3. Ilan Strauss & Yang, J., “Corporate Secular Stagnation: Empirical Evidence on the Advanced Economy Investment Slowdown,” Under Review.
+
+
+Old Working papers
+------
+
+1. Yang, J., Luis Daniel Torres Gonzalez, Advait Rajagopal, and Doyne Farmer, “Production Network and GDP Growth: a Decomposition Approach.” 
 
 
 
