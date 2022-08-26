@@ -8,10 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
-**[Full CV](http://yangjh2612.github.io/files/cv.pdf)**
-------
+
+**[Full CV download here](http://yangjh2612.github.io/files/cv.pdf)**
+
 
 Current Position
 ------
