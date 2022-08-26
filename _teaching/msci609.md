@@ -1,7 +1,7 @@
 ---
 title: "Quantitative Data Anaylsis"
 collection: teaching
-type: "Undergraduate course"
+type: "graduate course"
 permalink: /teaching/msci609
 venue: "UWaterloo, Management Sciences"
 date: 2020-01-01
