@@ -37,15 +37,15 @@ Working papers
 
 1. Yang, J., Torsten Heinrich, and Julian Winkler, François Lafond, Pantelis Koutroumpis, and Doyne Farmer, [Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution,](http://yangjh2612.github.io/files/productivity_dispersion.pdf),  resubmitted.
 
-2.Bonwoo Koo, Yang, J., and Brian D. Wright, “On optimality of secrecy and scarcity of idea.” R&R.
+2.Bonwoo Koo, Yang, J., and Brian D. Wright, “On optimality of secrecy and scarcity of idea.” R&R. \[New version soon\]
 
-3. Ilan Strauss & Yang, J., [Corporate Secular Stagnation: Empirical Evidence on the Advanced Economy Investment Slowdown,](), Under Review.
+3. Ilan Strauss & Yang, J., [Corporate Secular Stagnation: Empirical Evidence on the Advanced Economy Investment Slowdown,](http://yangjh2612.github.io/files/investment_rate.pdf), Under Review.
 
 
 Old Working papers
 ------
 
-1. Yang, J., Luis Daniel Torres Gonzalez, Advait Rajagopal, and Doyne Farmer, [Production Network and GDP Growth: a Decomposition Approach.]() 
+1. Yang, J., Luis Daniel Torres Gonzalez, Advait Rajagopal, and Doyne Farmer, [Production Network and GDP Growth: a Decomposition Approach.](http://yangjh2612.github.io/files/production_network.pdf) 
 
 
 
