@@ -1,7 +1,7 @@
 ---
 title: "Statistical Methods for Data Analytics"
 collection: teaching
-type: "Undergraduate course"
+type: "graduate course"
 permalink: /teaching/msci718
 venue: "UWaterloo, Management Sciences"
 date: 2020-01-01
