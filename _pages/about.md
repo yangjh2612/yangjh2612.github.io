@@ -15,6 +15,6 @@ I am an applied economist with strong interests in interdisciplinary work. My re
 
 Contact
 ------
-Mailing address: University of Waterloo, Department of Management Sciences, 200 University Avenue West, Waterloo, ON   N2L 3G1, CANADA
+**Mailing address**: University of Waterloo, Department of Management Sciences, 200 University Avenue West, Waterloo, ON   N2L 3G1, CANADA
 
-E-mail: j634yang[at]uwaterloo.ca
+**E-mail**: j634yang[at]uwaterloo.ca
