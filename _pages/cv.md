@@ -11,16 +11,16 @@ redirect_from:
 [Full CV](http://yangjh2612.github.io/files/cv.pdf)
 
 Current Position
-======
+=====
 * Assistant Professor,  Department of Management Sciences, Faculty of Engineering, University of Waterloo, 2020 - Present
 * Research Associate, Institute for New Economic Thinking at the Oxford Martin School, University of Oxford,  2020 - Present
 
 Previous Academic Position
-======
+=====
 * Postdoctoral Research Fellow, Institute for New Economic Thinking at the Oxford Martin School, University of Oxford,  2018 - 2020
 
 Education
-======
+=====
 * Ph.D. in Economics, New School for Social Research, New York, USA, 2018
 * MA in Economics, New School for Social Research, New York, USA, 2015
 * BA in Western History,  Seoul National University, Seoul, Korea, 2010
