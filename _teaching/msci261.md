@@ -2,7 +2,6 @@
 title: "Engineering Economics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/msci718
 venue: "UWaterloo, Management Sciences"
 location: "City, Country"
 ---
