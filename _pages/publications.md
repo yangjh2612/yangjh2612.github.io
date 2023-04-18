@@ -48,14 +48,3 @@ Working papers
 6. Jangho Yang, Luis Daniel Torres Gonzalez, Advait Rajagopal, and Doyne Farmer, [Production Network and GDP Growth: a Decomposition Approach.](http://yangjh2612.github.io/files/production_network.pdf)
 
 
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
