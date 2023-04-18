@@ -41,7 +41,7 @@ Working papers
 
 3. Ilan Strauss & Jangho Yang, [Corporate Secular Stagnation: Empirical Evidence on the Advanced Economy Investment Slowdown](http://yangjh2612.github.io/files/investment_rate.pdf), Under Review.
 
-4.Torsten Heinrich and Jangho Yang, [Innovation in times of Covid-19](http://yangjh2612.github.io/files/covid_patent.pdf),  Under Review.
+4. Torsten Heinrich and Jangho Yang, [Innovation in times of Covid-19](http://yangjh2612.github.io/files/covid_patent.pdf),  Under Review.
 
 5. Jangho Yang, Brian Cozzarin, Sarah Feng, and Torsten Heinrich, [Productivity Dispersion and Investment Slowdown in Canada](http://yangjh2612.github.io/files/productivity_dispersion_canada.pdf)
 
