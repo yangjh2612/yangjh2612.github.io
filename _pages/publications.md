@@ -35,17 +35,18 @@ Journal Articles
 Working papers
 ------
 
-1. Yang, J., Torsten Heinrich, and Julian Winkler, François Lafond, Pantelis Koutroumpis, and Doyne Farmer, [Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution](http://yangjh2612.github.io/files/productivity_dispersion.pdf),  resubmitted.
+1. Jangho Yang, Torsten Heinrich, and Julian Winkler, François Lafond, Pantelis Koutroumpis, and Doyne Farmer, [Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution](http://yangjh2612.github.io/files/productivity_dispersion.pdf),  Under Review.
 
-2. Bonwoo Koo, Yang, J., and Brian D. Wright, “On optimality of secrecy and scarcity of idea.” R&R. \[New version soon\]
+2. Bonwoo Koo, Jangho Yang, and Brian D. Wright, “On optimality of secrecy and scarcity of idea.” R&R. \[New version soon\]
 
-3. Ilan Strauss & Yang, J., [Corporate Secular Stagnation: Empirical Evidence on the Advanced Economy Investment Slowdown](http://yangjh2612.github.io/files/investment_rate.pdf), Under Review.
+3. Ilan Strauss & Jangho Yang, [Corporate Secular Stagnation: Empirical Evidence on the Advanced Economy Investment Slowdown](http://yangjh2612.github.io/files/investment_rate.pdf), Under Review.
 
+4.Torsten Heinrich and Jangho Yang, [Innovation in times of Covid-19](http://yangjh2612.github.io/files/covid_patent.pdf),  Under Review.
 
-Old Working papers
-------
+5. Jangho Yang, Brian Cozzarin, Sarah Feng, and Torsten Heinrich, [Productivity Dispersion and Investment Slowdown in Canada](http://yangjh2612.github.io/files/productivity_dispersion_canada.pdf)
 
-1. Yang, J., Luis Daniel Torres Gonzalez, Advait Rajagopal, and Doyne Farmer, [Production Network and GDP Growth: a Decomposition Approach.](http://yangjh2612.github.io/files/production_network.pdf) 
+6. Jangho Yang, Luis Daniel Torres Gonzalez, Advait Rajagopal, and Doyne Farmer, [Production Network and GDP Growth: a Decomposition Approach.](http://yangjh2612.github.io/files/production_network.pdf)
+
 
 
 
