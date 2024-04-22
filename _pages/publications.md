@@ -14,7 +14,7 @@ Journal Articles
 
 1.  **Yang, J.**, Heinrich, T., Winkler, J., Lafond, F., Koutroumpis, P., and Farmer, D., Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution,  forthcoming, Industrial and Corporate Change.
 
-2. Strauss, I., & **Yang, J.**, [Testing for secular stagnation in investment rates using a Bayesian multilevel model](https://www.sciencedirect.com/science/article/pii/S0954349X2400047X), Structural Change and Economic Dynamics.
+2. Strauss, I., & **Yang, J.**, [Testing for secular stagnation in investment rates using a Bayesian multilevel model](https://www.sciencedirect.com/science/article/pii/S0954349X2400047X), Structural Change and Economic Dynamics, 2024.
 
 3. **Yang, J.**, [Information-Theoretic Model of Induced Technological Change: Theory and Empirics](https://onlinelibrary.wiley.com/doi/full/10.1111/meca.12399), Metroeconomica, 2022. 
 
