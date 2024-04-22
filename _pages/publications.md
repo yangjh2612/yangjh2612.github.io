@@ -45,7 +45,7 @@ Working papers
 
 3. Torsten Heinrich and Jangho Yang, [Innovation in times of Covid-19](http://yangjh2612.github.io/files/covid_patent.pdf),  Under Review.
 
-4. Jangho Yang, Brian Cozzarin, Sarah Feng, and Torsten Heinrich, [Productivity Dispersion and Investment Slowdown in Canada], Under Review.
+4. Jangho Yang, Brian Cozzarin, Sarah Feng, and Torsten Heinrich, "Productivity Dispersion and Investment Slowdown in Canada", Under Review.
 
 5. Jangho Yang, Luis Daniel Torres Gonzalez, Advait Rajagopal, and Doyne Farmer, [Production Network and GDP Growth: a Decomposition Approach.](http://yangjh2612.github.io/files/production_network.pdf)
 
