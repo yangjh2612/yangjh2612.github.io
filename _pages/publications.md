@@ -12,9 +12,9 @@ The following is the list of published journal articles, book chapters, and work
 Journal Articles
 ------
 
-1. Jangho Yang, Torsten Heinrich, and Julian Winkler, François Lafond, Pantelis Koutroumpis, and Doyne Farmer, [Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution](http://yangjh2612.github.io/files/productivity_dispersion.pdf),  forthcoming, Industrial and Corporate Change.
+1.  **Yang, J.**, Heinrich, T., Winkler, J., Lafond, F., Koutroumpis, P., and Farmer, D., [Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution],  forthcoming, Industrial and Corporate Change.
 
-2. Ilan Strauss & Jangho Yang, [Corporate Secular Stagnation: Empirical Evidence on the Advanced Economy Investment Slowdown](http://yangjh2612.github.io/files/investment_rate.pdf), Structural Change and Economic Dynamics.
+2. Strauss, I., & **Yang, J.**, [Testing for secular stagnation in investment rates using a Bayesian multilevel model](https://www.sciencedirect.com/science/article/pii/S0954349X2400047X), Structural Change and Economic Dynamics.
 
 3. **Yang, J.**, [Information-Theoretic Model of Induced Technological Change: Theory and Empirics](https://onlinelibrary.wiley.com/doi/full/10.1111/meca.12399), Metroeconomica, 2022. 
 
