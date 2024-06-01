@@ -12,7 +12,7 @@ The following is the list of published journal articles, book chapters, and work
 Journal Articles
 ------
 
-1.  **Yang, J.**, Heinrich, T., Winkler, J., Lafond, F., Koutroumpis, P., and Farmer, D., Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution,  Industrial and Corporate Change, accepted,
+1.  **Yang, J.**, Heinrich, T., Winkler, J., Lafond, F., Koutroumpis, P., and Farmer, D., [Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution](https://academic.oup.com/icc/advance-article/doi/10.1093/icc/dtae021/7685859?login=false),  Industrial and Corporate Change, 2024.
 
 2. Strauss, I., & **Yang, J.**, [Testing for secular stagnation in investment rates using a Bayesian multilevel model](https://www.sciencedirect.com/science/article/pii/S0954349X2400047X), Structural Change and Economic Dynamics, 2024.
 
