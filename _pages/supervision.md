@@ -34,7 +34,7 @@ author_profile: true
 
 ### Undergraduate RA
 
-  **Full-Time Co-op RA**
+****Full-Time Co-op RA****
 - **Joanna Yang**, Management Science and Engineering, Data Science RA, Sep 2023 - Dec 2023 * _NSERC-USRA_  
 - **Mick Wang**, Computer Science, Data Science RA, May 2023 - Aug 2023 * _NSERC-USRA_  
 - **Fuyang Deng**, Mathematical Finance, Data Science RA, May 2023 - Aug 2023 * _NSERC-USRA_  
