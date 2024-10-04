@@ -1,5 +1,4 @@
 ---
-
 layout: archive  
 title: "Supervision"  
 permalink: /supervision/  
@@ -20,8 +19,8 @@ author_profile: true
 - **Lida Ghasemi** (co-supervised with Stan Dimitrov), Management Science and Engineering, May 2023 - present  
 
 ### Undergraduate  
-- **Bhuvnesh Nagpal**, Software Engineering, Sep 2024 - Dec 2024 \*President's Research Award\*  
-- **Nina**, Systems Design Engineering, Sep 2024 - Dec 2024 \*President's Research Award\*  
+- **Bhuvnesh Nagpal**, Software Engineering, Sep 2024 - Dec 2024 \**_President's Research Award_**  
+- **Nina**, Systems Design Engineering, Sep 2024 - Dec 2024 \**_President's Research Award_**  
 
 
 ## Previous Students
@@ -36,18 +35,18 @@ author_profile: true
 ### Undergraduate  
 
 #### Full-Time Co-op RA  
-- **Joanna Yang**, Management Science and Engineering, Data Science RA, Sep 2023 - Dec 2023 \*NSERC-USRA\*  
-- **Mick Wang**, Computer Science, Data Science RA, May 2023 - Aug 2023 \*NSERC-USRA\*  
-- **Fuyang Deng**, Mathematical Finance, Data Science RA, May 2023 - Aug 2023 \*NSERC-USRA\*  
-- **Edward Jeong**, Management Science and Engineering, Data Science RA, Jan 2023 - Apr 2023 \*ENG URI\*  
-- **Elisha Matharu**, Computer Engineering, Data Science RA, Jan 2023 - Apr 2023 \*ENG URI\*  
-- **Samantha Raven Kobes**, Biochemistry, Data Science RA, Jan 2021 - Apr 2021 \*Provost-supported funding\*  
-- **Hao Xiang Bian**, Actuarial Science & Statistics, Data Science RA, Jan 2021 - Apr 2021 \*Provost-supported funding\*  
+- **Joanna Yang**, Management Science and Engineering, Data Science RA, Sep 2023 - Dec 2023 \**_NSERC-USRA_**  
+- **Mick Wang**, Computer Science, Data Science RA, May 2023 - Aug 2023 \**_NSERC-USRA_**  
+- **Fuyang Deng**, Mathematical Finance, Data Science RA, May 2023 - Aug 2023 \**_NSERC-USRA_**  
+- **Edward Jeong**, Management Science and Engineering, Data Science RA, Jan 2023 - Apr 2023 \**_ENG URI_**  
+- **Elisha Matharu**, Computer Engineering, Data Science RA, Jan 2023 - Apr 2023 \**_ENG URI_**  
+- **Samantha Raven Kobes**, Biochemistry, Data Science RA, Jan 2021 - Apr 2021 \**_Provost-supported funding_**  
+- **Hao Xiang Bian**, Actuarial Science & Statistics, Data Science RA, Jan 2021 - Apr 2021 \**_Provost-supported funding_**  
 
 #### Full-Time Non-Co-op RA  
 - **Elisha Matharu** (co-supervised with Kejia Zhu), Management Science and Engineering, May 2023 - Sep 2023  
-- **Yuhan Zhang**, Statistics, May 2023 - Sep 2023 \*World Bank project\*  
+- **Yuhan Zhang**, Statistics, May 2023 - Sep 2023 \**_World Bank project_**  
 
 #### Part-Time RA  
-- **Gurik Mangat**, Systems Design Engineering, Jan 2024 - Apr 2024 \*President's Research Award\*  
-- **Sunny Shi**, Management Science and Engineering, Oct 2023 - Dec 2023 \*President's Research Award\*  
+- **Gurik Mangat**, Systems Design Engineering, Jan 2024 - Apr 2024 \**_President's Research Award_**  
+- **Sunny Shi**, Management Science and Engineering, Oct 2023 - Dec 2023 \**_President's Research Award_**  
