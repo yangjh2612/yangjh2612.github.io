@@ -20,7 +20,7 @@ author_profile: true
 
 ### Undergraduate  
 - **Bhuvnesh Nagpal**, Software Engineering, Sep 2024 - Dec 2024 * _President's Research Award_  
-- **Nina**, Systems Design Engineering, Sep 2024 - Dec 2024 * _President's Research Award_  
+- **Nina Do**, Systems Design Engineering, Sep 2024 - Dec 2024 * _President's Research Award_  
 
 
 ## Previous Students
