@@ -34,7 +34,7 @@ author_profile: true
 
 ### Undergraduate  
 
-<span style="font-size: 1.4em; font-weight: bold;">
+<span style="font-size: 2.4em; font-weight: bold;">Undergraduate</span>
 
 ### Full-Time Co-op RA  
 - **Joanna Yang**, Management Science and Engineering, Data Science RA, Sep 2023 - Dec 2023 * _NSERC-USRA_  
