@@ -1,3 +1,4 @@
+---
 layout: archive  
 title: "Supervision"  
 permalink: /supervision/  
