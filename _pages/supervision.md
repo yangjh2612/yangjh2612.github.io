@@ -34,7 +34,7 @@ author_profile: true
 
 ### Undergraduate  
 
-#### Full-Time Co-op RA  
+### Full-Time Co-op RA  
 - **Joanna Yang**, Management Science and Engineering, Data Science RA, Sep 2023 - Dec 2023 * _NSERC-USRA_  
 - **Mick Wang**, Computer Science, Data Science RA, May 2023 - Aug 2023 * _NSERC-USRA_  
 - **Fuyang Deng**, Mathematical Finance, Data Science RA, May 2023 - Aug 2023 * _NSERC-USRA_  
@@ -43,10 +43,10 @@ author_profile: true
 - **Samantha Raven Kobes**, Biochemistry, Data Science RA, Jan 2021 - Apr 2021 * _Provost-supported funding_  
 - **Hao Xiang Bian**, Actuarial Science & Statistics, Data Science RA, Jan 2021 - Apr 2021 * _Provost-supported funding_  
 
-#### Full-Time Non-Co-op RA  
+### Full-Time Non-Co-op RA  
 - **Elisha Matharu** (co-supervised with Kejia Zhu), Management Science and Engineering, May 2023 - Sep 2023  
 - **Yuhan Zhang**, Statistics, May 2023 - Sep 2023 * _World Bank project_  
 
-#### Part-Time RA  
+### Part-Time RA  
 - **Gurik Mangat**, Systems Design Engineering, Jan 2024 - Apr 2024 * _President's Research Award_  
 - **Sunny Shi**, Management Science and Engineering, Oct 2023 - Dec 2023 * _President's Research Award_  
