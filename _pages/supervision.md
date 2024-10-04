@@ -31,7 +31,6 @@ author_profile: true
 
 
 ### MASc  
-- *Details to be added*  
 
 
 ### Undergraduate  
