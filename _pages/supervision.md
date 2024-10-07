@@ -29,9 +29,6 @@ author_profile: true
 - **Kirsten Wright** (co-supervised with Sean Geobey), Systems Design Engineering, Sep 2021 - 2024, Graduated  
 
 
-### MASc  
-
-
 ### Undergraduate RA
 
 **Full-Time Co-op RA**
