@@ -8,7 +8,7 @@ author_profile: true
 ## Current Students
 
 ### PhD  
-- **[Jihae Hwang](www.linkedin.com/in/jiahehuang)** (co-supervised with Stan Dimitrov), Management Science and Engineering, Aug 2024 - present  
+- **[Jihae Hwang](https://www.linkedin.com/in/jiahehuang/)** (co-supervised with Stan Dimitrov), Management Science and Engineering, Aug 2024 - present  
 - **[Ho Yi Wong](https://www.linkedin.com/in/kisty-wong-7bb47127a/)** (co-supervised with Bonwoo Koo), Management Science and Engineering, Aug 2024 - present  
 - **[Julia D'Alessandro](https://www.linkedin.com/in/jndalessandro/)** (co-supervised with Bonwoo Koo), Management Science and Engineering, Aug 2023 - present  
 - **Wendy de Gomez** (co-supervised with Kejia Zhu), Management Science and Engineering, May 2023 - present  
