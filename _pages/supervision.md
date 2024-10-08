@@ -35,12 +35,12 @@ author_profile: true
 - **[Joanna Yang](https://www.linkedin.com/in/joannayang123/)**, Management Science and Engineering, Data Science RA, Sep 2023 - Dec 2023 * _NSERC-USRA_  
 - **[Mick Wang](https://www.linkedin.com/in/mwango/)**, Computer Science, Data Science RA, May 2023 - Aug 2023 * _NSERC-USRA_  
 - **[Edward Jeong](https://www.linkedin.com/in/edward-jeong-a59955175/)**, Management Science and Engineering, Data Science RA, Jan 2023 - Apr 2023 * _ENG URI_  
-- **Elisha Matharu**, Computer Engineering, Data Science RA, Jan 2023 - Apr 2023 * _ENG URI_  
+- **[Elisha Matharu](https://www.linkedin.com/in/elishamatharu/)**, Computer Engineering, Data Science RA, Jan 2023 - Apr 2023 * _ENG URI_  
 - **Samantha Raven Kobes**, Biochemistry, Data Science RA, Jan 2021 - Apr 2021 * _Provost-supported funding_  
 - **Hao Xiang Bian**, Actuarial Science & Statistics, Data Science RA, Jan 2021 - Apr 2021 * _Provost-supported funding_  
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Full-Time Non-Co-op RA**
-- **Elisha Matharu** (co-supervised with Kejia Zhu), Management Science and Engineering, May 2023 - Sep 2023  
+- **[Elisha Matharu](https://www.linkedin.com/in/elishamatharu/)** (co-supervised with Kejia Zhu), Management Science and Engineering, May 2023 - Sep 2023  
 - **[Yuhan Zhang](https://www.linkedin.com/in/yzhang001/)**, Statistics, May 2023 - Sep 2023 * _World Bank project_  
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Part-Time RA**
