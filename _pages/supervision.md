@@ -16,7 +16,7 @@ author_profile: true
 
 ### MASc  
 - **[Yuhan Zhang](https://www.linkedin.com/in/yzhang001/)** (co-supervised with Kejia Zhu), Management Science and Engineering, Aug 2024 - present  
-- **Lida Ghasemi** (co-supervised with Stan Dimitrov), Management Science and Engineering, May 2023 - present  
+- **[Lida Ghasemi](https://www.linkedin.com/in/lida-ghasemi-87728070/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)** (co-supervised with Stan Dimitrov), Management Science and Engineering, May 2023 - present  
 
 ### Undergraduate RA  
 - **[Bhuvnesh Nagpal](https://www.linkedin.com/in/bhuvnesh-nagpal/)**, Software Engineering, Sep 2024 - Dec 2024 * _President's Research Award_  
