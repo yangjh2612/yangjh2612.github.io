@@ -34,7 +34,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; **Full-Time Co-op RA**
 - **[Joanna Yang](https://www.linkedin.com/in/joannayang123/)**, Management Science and Engineering, Sep 2023 - Dec 2023 * _NSERC-USRA_  
 - **[Mick Wang](https://www.linkedin.com/in/mwango/)**, Computer Science, May 2023 - Aug 2023 * _NSERC-USRA_
-- **Fuyang Deng**, Mathematical Finance, May 2023 -  August 2023 * _NSERC-USRA_
+- **[Fuyang Deng](www.linkedin.com/in/fydeng/)**, Mathematical Finance, May 2023 -  August 2023 * _NSERC-USRA_
 - **[Edward Jeong](https://www.linkedin.com/in/edward-jeong-a59955175/)**, Management Science and Engineering, Jan 2023 - Apr 2023 * _ENG URI_
 - **[Elisha Matharu](https://www.linkedin.com/in/elishamatharu/)**, Computer Engineering, Jan 2023 - Apr 2023 * _ENG URI_  
 - **Samantha Raven Kobes**, Biochemistry, Jan 2021 - Apr 2021 * _Provost-supported funding_  
@@ -42,8 +42,8 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Full-Time Non-Co-op RA**
 - **[Elisha Matharu](https://www.linkedin.com/in/elishamatharu/)** (co-supervised with Kejia Zhu), Management Science and Engineering, May 2023 - Sep 2023  
-- **[Yuhan Zhang](https://www.linkedin.com/in/yzhang001/)**, Statistics, May 2023 - Sep 2023 * _World Bank project_  
+- **[Yuhan Zhang](https://www.linkedin.com/in/yzhang001/)**, Statistics, May 2023 - Sep 2023 * _World Bank funded_  
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Part-Time RA**
-- **Gurik Mangat**, Systems Design Engineering, Jan 2024 - Apr 2024 * _President's Research Award_  
+- **[Gurik Mangat](https://www.linkedin.com/in/gurik-mangat-70a875218/)**, Systems Design Engineering, Jan 2024 - Apr 2024 * _President's Research Award_  
 - **Sunny Shi**, Management Science and Engineering, Oct 2023 - Dec 2023 * _President's Research Award_  
