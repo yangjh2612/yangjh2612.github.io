@@ -13,7 +13,7 @@ Journal Articles
 ------
 
 
-1.  **Yang, J.**, \ Brian Cozzarin, Sarah Feng, and Torsten Heinrich, “Productivity Dispersion and Investment Slowdown in Canada.“ forthcoming in the Journal of Evolutionary Economics.
+1.  **Yang, J.**, Brian Cozzarin, Sarah Feng, and Torsten Heinrich, “Productivity Dispersion and Investment Slowdown in Canada.“ forthcoming in the Journal of Evolutionary Economics.
 
 2.   **Yang, J.**, Heinrich, T., Winkler, J., Lafond, F., Koutroumpis, P., and Farmer, D., [Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution](https://academic.oup.com/icc/advance-article/doi/10.1093/icc/dtae021/7685859?login=false),  Industrial and Corporate Change, 2024.
 
@@ -31,7 +31,7 @@ Journal Articles
 
 9. dos Santos, P. and **Yang, J.**, [Capital Mobility, Quasi-rents, and the Competitive Self-organization of Distributions of Profitability](https://www.worldscientific.com/doi/abs/10.1142/S0219525920500034), Advances in Complex Systems,  2020.
 
-10. \item  dos Santos, Paulo \& \textbf{Jangho Yang} (2019),  ``The persistent and informative distribution of returns on capital,'' \textit{Economics and Business Letters.}
+10. dos Santos, Paulo and **Yang, J.**,  [The persistent and informative distribution of returns on capital](https://reunido.uniovi.es/index.php/EBL/article/view/13280), Economics and Business Letters, 2019.
 
 11. **Yang, J.** and Torres, D., [The Persistent Statistical Structure of the US Input-Output Coefficient Matrices: 1963-2007](https://www.tandfonline.com/doi/full/10.1080/09535314.2018.1561425),  Economic Systems Research, 2019
 
