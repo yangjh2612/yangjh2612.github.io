@@ -45,7 +45,7 @@ Working papers
 
 1. Bonwoo Koo, Jangho Yang and Brian D. Wright, “On optimality of secrecy and scarcity of idea.“ R&R in the Journal of Economics & Management Strategy
 
-2. Jangho Yang and Ilan Strauss, “Developing Dynamic Capabilities Through Acquisitions: A patent lens on M&A's impact on Big Tech's technological profile“, R&R in Industrial and Corporate Change
+2. Jangho Yang and Ilan Strauss, [Developing Dynamic Capabilities Through Acquisitions: A patent lens on M&A's impact on Big Tech's technological profile](http://yangjh2612.github.io/files/Big_Tech_Patent_revised.pdf), R&R in Industrial and Corporate Change
 
 3. Jangho Yang and Christian Schoder, “Impact of temperature uncertainty on firm growth: A grid-level analysis,“ Under Review.
 
