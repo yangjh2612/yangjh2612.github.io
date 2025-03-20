@@ -13,7 +13,7 @@ Journal Articles
 ------
 
 
-1.  **Yang, J.**, Brian Cozzarin, Sarah Feng, and Torsten Heinrich, [Productivity Dispersion and Investment Slowdown in Canada](https://link.springer.com/article/10.1007/s00191-025-00891-z), Journal of Evolutionary Economics.
+1.  **Yang, J.**, Brian Cozzarin, Sarah Feng, and Torsten Heinrich, [Productivity Dispersion and Investment Slowdown in Canada](https://link.springer.com/article/10.1007/s00191-025-00891-z), Journal of Evolutionary Economics, 2025.
 
 2.   **Yang, J.**, Heinrich, T., Winkler, J., Lafond, F., Koutroumpis, P., and Farmer, D., [Measuring Productivity Dispersion: a Parametric Approach Using the Levy α-Stable Distribution](https://academic.oup.com/icc/advance-article/doi/10.1093/icc/dtae021/7685859?login=false),  Industrial and Corporate Change, 2024.
 
