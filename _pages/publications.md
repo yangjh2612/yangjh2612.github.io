@@ -12,7 +12,7 @@ The following is the list of published journal articles, book chapters, and work
 Journal Articles
 ------
 
-1.  Bonwoo Koo, **Yang, J.** and Brian D. Wright,, On optimality of secrecy and scarcity of idea, Journal of Economics & Management Strategy, forthcoming.
+1.  Bonwoo Koo, **Yang, J.** and Brian D. Wright, On optimality of secrecy and scarcity of idea, Journal of Economics & Management Strategy, forthcoming.
 
 2.  **Yang, J.**, Brian Cozzarin, Sarah Feng, and Torsten Heinrich, [Productivity Dispersion and Investment Slowdown in Canada](https://link.springer.com/article/10.1007/s00191-025-00891-z), Journal of Evolutionary Economics, 2025.
 
