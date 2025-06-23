@@ -51,7 +51,7 @@ Working papers
 
 3. Sujung Jee, Jangho Yang, Torsten Heinrich, and  Kejia Zhu, “Flexibility Stigma and Gender in Innovation: Evidence from Inventors during Lockdown,“  Under Review.
 
-4. Jangho Yang, Ilan Strauss, and Mariana Mazzucato [Rich-Get-Richer''? Analyzing Content Creator Earnings Across Large Social Media Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5253032),  Under Review.
+4. Jangho Yang, Ilan Strauss, and Mariana Mazzucato, [Rich-Get-Richer''? Analyzing Content Creator Earnings Across Large Social Media Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5253032),  Under Review.
 
 
 
