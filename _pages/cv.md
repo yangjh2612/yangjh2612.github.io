@@ -34,9 +34,9 @@ Statistical Methods and Methodology; Firm-level Data Analysis; Information-Theor
 Teaching Experience
 ------
 * Department of Management Sciences, University of Waterloo
-  * Quantitative Data Anaylsis (Spring 2021,2022)
-  * Statistical Methods for Data Analytics (Fall 2022)
-  * Engineering Economics: Financial Management for Engineers (Spring 2021,2022)
+  * Quantitative Data Anaylsis (2021-2025)
+  * Statistical Methods for Data Analytics (2022-2025)
+  * Engineering Economics: Financial Management for Engineers (Spring 2021-2023)
   
 * Department of Economics, New School for Social Research
   * Advanced Econometrics (TA and lab consultant , Fall 2017, Spring 2017, Spring 2016)
