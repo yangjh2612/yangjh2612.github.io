@@ -49,7 +49,7 @@ Working papers
 
 2. Jangho Yang and Christian Schoder, [Impact of temperature uncertainty on firm growth: A grid-level analysis](https://documents1.worldbank.org/curated/en/099308001082514907/pdf/IDU1166268411c19a149b21aeca1bb94880795e3.pdf), Under Review.
 
-3. Sujung Jee, Jangho Yang, Torsten Heinrich, and  Kejia Zhu, “Flexibility Stigma and Gender in Innovation: Evidence from Inventors during Lockdown,“  Under Review.
+3. Sujung Jee, Jangho Yang, Torsten Heinrich, and  Kejia Zhu, ``Flexibility Stigma and Gender in Innovation: Evidence from Inventors during Lockdown,''  Under Review.
 
 4. Jangho Yang, Ilan Strauss, and Mariana Mazzucato, [Rich-Get-Richer''? Analyzing Content Creator Earnings Across Large Social Media Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5253032),  Under Review.
 
