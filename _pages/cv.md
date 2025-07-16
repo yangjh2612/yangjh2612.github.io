@@ -14,7 +14,7 @@ redirect_from:
 
 Current Position
 ------
-* Assistant Professor, Department of Management Sciences, Faculty of Engineering, University of Waterloo, 2020 - Present  
+* Assistant Professor, Department of Management Science and Engineering, Faculty of Engineering, University of Waterloo, 2020 - Present  
   - Affiliated Member, Waterloo Data and Artificial Intelligence Institute  
   - Affiliated Member, Waterloo Institute for Complexity and Innovation
 * Research Associate, Institute for New Economic Thinking at the Oxford Martin School, University of Oxford, 2020 - Present
