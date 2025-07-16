@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Management Sciences, Faculty of Engineering at the  University of Waterloo. 
+I am an Assistant Professor of [Management Science and Engineering](https://uwaterloo.ca/management-science-engineering/) in the Faculty of Engineering at the University of Waterloo. I am also a Research Associate at the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk) at the University of Oxford and an affiliated member of the [Waterloo Data and Artificial Intelligence Institute](https://uwaterloo.ca/artificial-intelligence-institute/) and the [Waterloo Institute for Complexity and Innovation](https://uwaterloo.ca/complexity-innovation/).
 
-I am an applied economist with strong interests in interdisciplinary work. My research has focused on information-theoretic approaches in economics, power-law behaviour in economic data, firm-level productivity & investment, and Bayesian multilevel modelling. I have published in economics and multidisciplinary science journals such as [Industrial and Corporate Change](https://academic.oup.com/icc), [Structural Change and Economic Dynamics](https://www.sciencedirect.com/journal/structural-change-and-economic-dynamics), [Journal of Evolutionary Economics](https://www.springer.com/journal/191), [International Review of Financial Analysis](https://www.sciencedirect.com/journal/international-review-of-financial-analysis), [Metroeconomica](https://onlinelibrary.wiley.com/journal/1467999x), [Journal of Economic Surveys](https://onlinelibrary.wiley.com/journal/14676419), [Economics Systems Research](https://www.tandfonline.com/toc/cesr20/current), [Entropy](https://www.mdpi.com/journal/entropy), [European Physical Journals Special Topics](https://www.springer.com/journal/11734), and [Advances in Complex Systems](https://www.worldscientific.com/worldscinet/acs).
+Before joining Waterloo, I was a postdoctoral researcher at the University of Oxford, working with [Doyne J. Farmer](https://www.doynefarmer.com/). I earned a PhD in Economics from the New School for Social Research under the supervision of (Duncan Foley)[https://en.wikipedia.org/wiki/Duncan_K._Foley] and hold a BS in Western History from Seoul National University.
 
+My research explores models of technological change, productivity distribution, and firm growth & innovation by applying methods from information theory, Bayesian multilevel modeling, and distributional analysis, with a particular emphasis on power-law patterns in economic data.
 
 Contact
 ------
