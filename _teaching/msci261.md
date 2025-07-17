@@ -2,7 +2,7 @@
 title: "Engineering Economics"
 collection: teaching
 type: "Undergraduate course"
-venue: "UWaterloo, Management Sciences"
+venue: "UWaterloo, Management Science and Engineering"
 date: ""
 location: "City, Country"
 ---
