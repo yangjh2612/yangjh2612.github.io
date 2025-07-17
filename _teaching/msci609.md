@@ -3,7 +3,7 @@ title: "Quantitative Data Anaylsis"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/msci609
-venue: "UWaterloo, Management Sciences"
+venue: "UWaterloo, Management Science and Engineering"
 date: ""
 location: "City, Country"
 ---
