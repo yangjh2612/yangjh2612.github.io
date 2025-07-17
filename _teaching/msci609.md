@@ -4,7 +4,7 @@ collection: teaching
 type: "graduate course"
 permalink: /teaching/msci609
 venue: "UWaterloo, Management Science and Engineering"
-date: ""
+date: 2025-09-01
 location: "City, Country"
 ---
 
