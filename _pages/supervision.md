@@ -19,6 +19,8 @@ author_profile: true
 - **[Lida Ghasemi](https://www.linkedin.com/in/lida-ghasemi-87728070/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)** (co-supervised with Stan Dimitrov), Management Science and Engineering, May 2023 - present  
 
 
+
+
 ## Previous Students
 
 ### PhD  
