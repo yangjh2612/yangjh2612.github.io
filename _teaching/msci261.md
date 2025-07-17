@@ -3,7 +3,7 @@ title: "Engineering Economics"
 collection: teaching
 type: "Undergraduate course"
 venue: "UWaterloo, Management Science and Engineering"
-date: ""
+date: 2025-09-01
 location: "City, Country"
 ---
 
