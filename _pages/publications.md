@@ -53,7 +53,7 @@ Working papers
 
 4. Sujung Jee, Jangho Yang, Torsten Heinrich, and  Kejia Zhu, ``Flexibility Stigma and Gender in Innovation: Evidence from Inventors during Lockdown,''  Under Review.
 
-5. Ilan Strauss, Jangho Yang, Tim O'Reilly, Sruly Rosenblat, and Isobel Moure, [The Attribution Crisis in LLM Search Results: Estimating Ecosystem Exploitation]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5253032](https://ssrc-static.s3.us-east-1.amazonaws.com/The-Attribution-Crisis-LLM-Search-Results-Strauss-Yang-OReilly-Rosenblat-Moure_SSRC_062525.pdf)),  Under Review.
+5. Ilan Strauss, Jangho Yang, Tim O'Reilly, Sruly Rosenblat, and Isobel Moure, [The Attribution Crisis in LLM Search Results: Estimating Ecosystem Exploitation](https://ssrc-static.s3.us-east-1.amazonaws.com/The-Attribution-Crisis-LLM-Search-Results-Strauss-Yang-OReilly-Rosenblat-Moure_SSRC_062525.pdf),  Under Review.
 
 
 
