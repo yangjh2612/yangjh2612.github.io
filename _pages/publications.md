@@ -45,7 +45,7 @@ Working papers
 ------
 
 
-1. Jangho Yang and Ilan Strauss, [Developing Dynamic Capabilities Through Acquisitions: A patent lens on M&A's impact on Big Tech's technological profile](http://yangjh2612.github.io/files/Big_Tech_Patent_revised.pdf), R&R in Industrial and Corporate Change
+1. Jangho Yang and Ilan Strauss, [Developing Dynamic Capabilities Through Acquisitions: A patent lens on M&A's impact on Big Tech's technological profile](http://yangjh2612.github.io/files/Big_Tech_Patent_revised.pdf)
 
 2. Jangho Yang, Ilan Strauss, and Mariana Mazzucato, "Rich-Get-Richer''? Analyzing Content Creator Earnings Across Large Social Media Platforms", Under Review.
 
