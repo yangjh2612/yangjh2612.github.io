@@ -51,9 +51,13 @@ Working papers
 ------
 
 
-1. Jangho Yang and Christian Schoder, [Impact of temperature uncertainty on firm growth: A grid-level analysis](https://documents1.worldbank.org/curated/en/099308001082514907/pdf/IDU1166268411c19a149b21aeca1bb94880795e3.pdf), Under Review.
+1. Jangho Yang and Christian Schoder, [Impact of temperature uncertainty on firm growth: A grid-level analysis](https://documents1.worldbank.org/curated/en/099308001082514907/pdf/IDU1166268411c19a149b21aeca1bb94880795e3.pdf), R&R at Environmental and Resource Economics.
 
-2. Sujung Jee, Jangho Yang, Torsten Heinrich, and  Kejia Zhu, ``Flexibility Stigma and Gender in Innovation: Evidence from Inventors during Lockdown,’’  Under Review.
+2. Lida Ghasemi\*, Jangho Yang, and Stan Dimitrov, ``Green Innovation by Fossil Fuel Companies,’’ R&R at Sustainability Accounting, Management and Policy Journal.
+
+3. Sujung Jee, Jangho Yang, Torsten Heinrich, and Kejia Zhu, ``Gendered Effects of Remote Work on Knowledge Workers: Evidence from Inventors,’’ Under Review.
+
+\* indicates a paper coauthored with a student.
 
 
 
