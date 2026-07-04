@@ -8,6 +8,8 @@ author_profile: true
 ## Current Students
 
 ### PhD  
+- **[Yue Qiao](https://www.linkedin.com/in/yue-qiao-6b305b252/)** (co-supervised with Bonwoo Koo), Management Science and Engineering, Jan 2026 - present  
+- **Sepideh Khalaj**, Management Science and Engineering, Aug 2025 - present  
 - **[Jihae Hwang](https://www.linkedin.com/in/jiahehuang/)** (co-supervised with Stan Dimitrov), Management Science and Engineering, Aug 2024 - present  
 - **[Ho Yi Wong](https://www.linkedin.com/in/kisty-wong-7bb47127a/)** (co-supervised with Bonwoo Koo), Management Science and Engineering, Aug 2024 - present  
 - **[Julia D'Alessandro](https://www.linkedin.com/in/jndalessandro/)** (co-supervised with Bonwoo Koo), Management Science and Engineering, Aug 2023 - present  
@@ -16,7 +18,13 @@ author_profile: true
 
 ### MASc  
 - **[Yuhan Zhang](https://www.linkedin.com/in/yzhang001/)** (co-supervised with Kejia Zhu), Management Science and Engineering, Aug 2024 - present  
-- **[Lida Ghasemi](https://www.linkedin.com/in/lida-ghasemi-87728070/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)** (co-supervised with Stan Dimitrov), Management Science and Engineering, May 2023 - present  
+- **[Edward Jeong](https://www.linkedin.com/in/edward-jeong-a59955175/)** (co-supervised with Kejia Zhu), Management Science and Engineering, Aug 2025 - present  
+- **[Eugene Kayal](https://www.linkedin.com/in/eugene-kayal-600239174/)**, Management Science and Engineering, Jan 2025 - present  
+
+### Undergraduate RA
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Part-Time RA**
+- **[Mara Phillips](https://www.linkedin.com/in/phillmara/)**, Management Science and Engineering, May 2026 - Aug 2026 * _President's Research Award_  
 
 
 
@@ -25,6 +33,9 @@ author_profile: true
 
 ### PhD  
 - **[Kirsten Wright](https://linktr.ee/kirstenwright)** (co-supervised with Sean Geobey), Systems Design Engineering, Sep 2021 - 2024, Graduated  
+
+### MASc  
+- **[Lida Ghasemi](https://www.linkedin.com/in/lida-ghasemi-87728070/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)** (co-supervised with Stan Dimitrov), Management Science and Engineering, May 2023 - 2025, Graduated  
 
 
 ### Undergraduate RA
@@ -43,6 +54,7 @@ author_profile: true
 - **[Yuhan Zhang](https://www.linkedin.com/in/yzhang001/)**, Statistics, May 2023 - Sep 2023 * _World Bank funded_  
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Part-Time RA**
+- **[Akash Lakshmanan](https://www.linkedin.com/in/akashlak/)**, Management Science and Engineering, Sep 2025 - Dec 2025 * _President's Research Award_  
 - **[Bhuvnesh Nagpal](https://www.linkedin.com/in/bhuvnesh-nagpal/)**, Software Engineering, Sep 2024 - Dec 2024 * _President's Research Award_  
 - **Nina Do**, Systems Design Engineering, Sep 2024 - Dec 2024 * _President's Research Award_  
 - **[Gurik Mangat](https://www.linkedin.com/in/gurik-mangat-70a875218/)**, Systems Design Engineering, Jan 2024 - Apr 2024 * _President's Research Award_  
