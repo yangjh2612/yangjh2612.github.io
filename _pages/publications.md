@@ -12,7 +12,7 @@ The following is the list of published journal articles, book chapters, and work
 Journal Articles
 ------
 
-1.  Strauss, I., **Yang, J.**, and Mazzucato, M., "Rich-Get-Richer? Analyzing Content Creator Earnings Across Large Social Media Platforms", Industrial and Corporate Change, forthcoming.
+1.  Strauss, I., **Yang, J.**, and Mazzucato, M., [Rich-Get-Richer? Analyzing Content Creator Earnings Across Large Social Media Platforms](https://academic.oup.com/icc/advance-article/doi/10.1093/icc/dtag044/8740661), Industrial and Corporate Change, 2026.
 
 2.  Strauss, I., **Yang, J.**, Tim O'Reilly, Sruly Rosenblat, and Isobel Moure, [The Attribution Crisis in LLM Search Results: Estimating Ecosystem Exploitation](https://www.cambridge.org/core/journals/data-and-policy/article/attribution-crisis-in-llm-search-results-estimating-ecosystem-exploitation/170DD0B88E5F5AEA8F69F2E9AF1328E3), Data & Policy, 2026.
 
